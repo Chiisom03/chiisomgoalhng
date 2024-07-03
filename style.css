@@ -83,10 +83,6 @@ section.profile_section {
   gap: 1rem;
 }
 
-section img {
-  height: 100%;
-  /* border-radius: 50%; */
-}
 
 .profile_text p {
   font-size: 2rem;
