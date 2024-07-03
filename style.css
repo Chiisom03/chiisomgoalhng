@@ -50,12 +50,6 @@ section {
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
 }
 
-.slack_image {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-}
-
 ul {
   list-style-type: none;
   padding: 0;
